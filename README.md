@@ -2,15 +2,15 @@
 
 ## Objectives
 
-In this project, I...
+In this project, I refactored the existing Horiseon webpage code to replace non-semantic tags with semantic tags.
 
 ## Screenshot of Final Page
-Add your screenshot to the assets folder for this assignment and update location below.
-![Screenshot of my final webpage](./assets/image-1.png)
+
+![Screenshot of final webpage](./assets/images/final-webpage-image.png)
 
 ## Link To The Final Page
-Update your link below.
-[Link to my final page](https://caitlinscodes.github.io/semantic-html/)
+
+[Link to final webpage](https://caitlinscodes.github.io/semantic-html/)
 
 ## License
 
