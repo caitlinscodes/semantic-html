@@ -2,7 +2,7 @@
 
 ## Objectives
 
-In this project, I refactored the existing Horiseon webpage code to replace non-semantic tags with semantic tags.
+In this project, I refactored the existing Horiseon webpage code to replace non-semantic tags with semantic tags as well as consolidated and organized css within the existing stylesheet.
 
 ## Screenshot of Final Page
 
